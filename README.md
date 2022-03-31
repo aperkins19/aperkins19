@@ -21,7 +21,7 @@ Hi there 👋, I'm Alex!
   - Our Lab website: *https://nadanai263.github.io/*
 * Working on optimising Cell-Free Protein Expression 🧪
 
-<img height="300" src="https://thumbs.gfycat.com/FearlessMetallicGreathornedowl-size_restricted.gif" /> <img height="300" src="https://thumbs.gfycat.com/BadSecondaryHapuka-size_restricted.gif" />
+<img height="200" src="https://thumbs.gfycat.com/FearlessMetallicGreathornedowl-size_restricted.gif" /> <img height="200" src="https://thumbs.gfycat.com/BadSecondaryHapuka-size_restricted.gif" />
 
 ## Interested in:
 * Open Science 🌱
@@ -30,7 +30,7 @@ Hi there 👋, I'm Alex!
 * Curating and handling biological data 💾🗃️
 
 
-<img height="270" src="https://thumbs.gfycat.com/DistantBreakableArrowana-size_restricted.gif" /> <img height="270" src="https://thumbs.gfycat.com/DetailedPotableBobolink-size_restricted.gif" />
+<img height="200" src="https://thumbs.gfycat.com/DistantBreakableArrowana-size_restricted.gif" /> <img height="200" src="https://thumbs.gfycat.com/DetailedPotableBobolink-size_restricted.gif" />
 
 ## Methods:
 * Neural Networks
@@ -38,7 +38,7 @@ Hi there 👋, I'm Alex!
 * Active-Learning
 
 
-<img height="270" src="https://thumbs.gfycat.com/BarrenUntimelyHairstreakbutterfly-size_restricted.gif" /> <img height="270" src="https://thumbs.gfycat.com/BrightAbandonedEarwig-size_restricted.gif" />
+<img height="200" src="https://thumbs.gfycat.com/BarrenUntimelyHairstreakbutterfly-size_restricted.gif" /> <img height="200" src="https://thumbs.gfycat.com/BrightAbandonedEarwig-size_restricted.gif" />
 
 
 ## I use:
