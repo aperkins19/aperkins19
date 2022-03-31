@@ -16,7 +16,7 @@ Hi there 👋, I'm Alex!
 
 
 
-I am:
+## I am:
 * A bioengineer 🧬
 * A software developer ⚙🖥️
 * PhD student in the *Synthetic Biophysical Systems Group* at the *University of Edinburgh* 🎓
@@ -25,7 +25,7 @@ I am:
 ![Alt Text](https://thumbs.gfycat.com/FearlessMetallicGreathornedowl-size_restricted.gif) ![Alt Text](https://thumbs.gfycat.com/BadSecondaryHapuka-size_restricted.gif)
 
 
-Interested in:
+## Interested in:
 * Open Science 🌱
 * Circular economy ♻️
 * Automating biology 🤖
@@ -34,7 +34,7 @@ Interested in:
 
 ![Alt Text](https://thumbs.gfycat.com/DetailedPotableBobolink-size_restricted.gif) ![Alt text](https://thumbs.gfycat.com/DistantBreakableArrowana-size_restricted.gif)
 
-Technologies:
+## Technologies:
 * Neural Networks
 * Bayesian Inference
 * Active-Learning
