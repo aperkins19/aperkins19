@@ -1,6 +1,17 @@
-# Hi there 👋 I'm Alex: a bioengineer 🛠️🧬 currently working on optimising cell-free protein expression ⚙ 🧪
 
-Welcome to my github, I hope you find it informative.
+# Welcome to my Github
+
+<p align="center">
+  <img width="92" src="https://github.com/aperkins19/aperkins19/cfpslogo.png" />
+</p>  
+<h2 align="center">Hi there 👋, I'm Alex!</h2>
+
+I'm:
+* 🧬 A bioengineer
+* ⚙  A software developer
+* 🧪 Currently working on optimising Cell-Free Protein Expression
+
+ 
 
 ### My interests include:
 
