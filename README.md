@@ -75,7 +75,7 @@ Happy programming!
 
 ## Computing guides for scientists
 
-**Problem:**
+### Problem:
 
 Effective teaching of programming and computing techniques is a topic I care very much about.
 
@@ -105,7 +105,7 @@ They do not teach you how to:
 * Organise, keep track of and store your scripts
 * How to be an effective dry-lab scientist
 
-**Solution:**
+### Solution:
 
 Various technologies, best practices that have transformed the way I code and my relationship with programmming. 
 
@@ -118,6 +118,10 @@ I hope you find them useful and please please please get in touch if:
 * I have missed something out.
 * You have any constructive feedback at all.
 * You found them helpful! ✨🌱
+
+
+<img height="200" src="https://thumbs.gfycat.com/HilariousFocusedIberianchiffchaff-size_restricted.gif" /> <img height="200" src="https://thumbs.gfycat.com/PlushImperfectCottontail-size_restricted.gif" />
+
 
 
 ### Git
