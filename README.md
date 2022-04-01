@@ -120,7 +120,7 @@ I hope you find them useful and please please please get in touch if:
 * You found them helpful! ✨🌱
 
 
-<img height="200" src="https://thumbs.gfycat.com/HilariousFocusedIberianchiffchaff-size_restricted.gif" /> <img height="200" src="https://thumbs.gfycat.com/PlushImperfectCottontail-size_restricted.gif" />
+<img height="200" src="https://thumbs.gfycat.com/PlushImperfectCottontail-size_restricted.gif" /><img height="200" src="https://thumbs.gfycat.com/HilariousFocusedIberianchiffchaff-size_restricted.gif" />
 
 
 
