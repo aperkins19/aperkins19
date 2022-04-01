@@ -21,7 +21,12 @@ Hi there 👋, I'm Alex!
   - Our Lab website: *https://nadanai263.github.io/*
 * Working on optimising Cell-Free Protein Expression 🧪
 
+
 <img height="200" src="https://thumbs.gfycat.com/FearlessMetallicGreathornedowl-size_restricted.gif" /> <img height="200" src="https://thumbs.gfycat.com/BadSecondaryHapuka-size_restricted.gif" />
+
+## How to reach me: 📫
+* https://twitter.com/APerks42
+* a.j.p.perkins@sms.ed.ac.uk
 
 ## Interested in:
 * Open Science 🌱
@@ -50,6 +55,8 @@ Hi there 👋, I'm Alex!
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
 <code><img src="https://github.com/aperkins19/aperkins19/blob/main/dockerlogo.png" alt="docker" width="40" height="40"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img src="https://github.com/aperkins19/aperkins19/blob/main/fastapilogo.png" alt="FastApi" width="100" height="40"/></code>
+<code><img src="https://github.com/aperkins19/aperkins19/blob/main/flask.jpg" alt="Flask" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
@@ -57,10 +64,10 @@ Hi there 👋, I'm Alex!
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aperkins19)
 
-<!--
-**aperkins19/aperkins19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
