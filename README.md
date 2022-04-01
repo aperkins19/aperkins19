@@ -83,14 +83,33 @@ Increasingly, scientists across the disciplines are having to acquire skills as 
 
 Despite this and arguarably understandably, traditional university departments are often not well equipped to deliver adequate or effective training. The result is often an opaque 2 hour 'masterclass' in R followed by late nights soaked in sweat, blood and tears as the student tries to work out the difference between *bash*, *terminal* and *command line* or why some else's code doesn't work on their computer or how on earth this code written two months ago works.
 
+<img height="200" src="https://thumbs.gfycat.com/ActualBelovedGalapagosdove-size_restricted.gif" /> <img height="200" src="https://thumbs.gfycat.com/BackBogusAsiaticwildass-size_restricted.gif" />
+
+
 For the scientist, metamorphosis into an effective computerist is a long, lonely and painful journey with nothing to guide one except materials written for computer science graduates and documentation that might as well be Vogon Poetry. **KWARRGGGGSSSSS 
+
+Traditional scientific computing training &OR Online Courses such as DataCamp or CodeAcademy might teach you how to:
+
+* Write a function
+* Work with datastructures like arrays
+* Plot your data
+* Fit curves and train neural networks
+
+**But**
+
+They do not teach you how to:
+
+* Install packages
+* Compartmentalise your programming environments in an easy and tidy way
+* Share code effectively
+* Organise, keep track of and store your scripts
+* How to be an effective dry-lab scientist
 
 **Solution:**
 
 Various technologies, best practices that have transformed the way I code and my relationship with programmming. 
 
 I have produced (and continue to produce) a number of 'Guides for Dummies' & QuickStart Guides written for the perspective of the complete computing novice. 
-
 Many great courses and materials already exist but where there are absences, or areas where I think I can contribute, I have endeavoured to do so.
 
 I hope you find them useful and please please please get in touch if:
