@@ -126,10 +126,15 @@ I hope you find them useful and please please please get in touch if:
 
 ### My Quick-Start Docker for DataScience Template:
 
+
 [![Docker_template_python_datascience_jupyter_bespoke_packages](https://github-readme-stats.vercel.app/api/pin/?username=aperkins19&repo=Docker_template_python_datascience_jupyter_bespoke_packages&show_owner=true)](https://github.com/aperkins19/Docker_template_python_datascience_jupyter_bespoke_packages)
 
 
-**Under Construction**
+
+
+
+
+**Under Construction:**
 
 ### Git
 
